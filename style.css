@@ -47,7 +47,7 @@ body
 #topBackground
 {
 	background-image: url("images/squairy_light.png");
-	background-color: #372312;
+	background-color: #fff;
 	height: 150px;
 	margin-bottom: -100px;
 	box-shadow: inset 0px -10px 5px -10px #ccc;
